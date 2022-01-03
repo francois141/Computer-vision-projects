@@ -1,0 +1,21 @@
+2021-12-14 10:02:13,330 INFO Let the games begin
+2021-12-14 10:02:20,711 INFO [Step 99/ Epoch 0]  Loss: 1.6900  
+2021-12-14 10:02:21,597 INFO val acc:45.02
+2021-12-14 10:02:21,630 INFO [*] best model saved
+
+2021-12-14 10:02:26,527 INFO [Step 199/ Epoch 0]  Loss: 1.3861  
+2021-12-14 10:02:27,298 INFO val acc:53.12
+2021-12-14 10:02:27,361 INFO [*] best model saved
+
+2021-12-14 10:02:32,121 INFO [Step 299/ Epoch 0]  Loss: 1.3187  
+2021-12-14 10:02:32,917 INFO val acc:56.24
+2021-12-14 10:02:32,972 INFO [*] best model saved
+
+2021-12-14 10:02:37,987 INFO [Step 47/ Epoch 1]  Loss: 1.2280  
+2021-12-14 10:02:38,773 INFO val acc:60.68
+2021-12-14 10:02:38,832 INFO [*] best model saved
+
+2021-12-14 10:02:43,672 INFO [Step 147/ Epoch 1]  Loss: 1.1261  
+2021-12-14 10:02:44,444 INFO val acc:63.18
+2021-12-14 10:02:44,505 INFO [*] best model saved
+
