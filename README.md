@@ -7,3 +7,4 @@
 * Project 3 : Implementation of camera calibration and structure from motion
 * Project 4 : Implementation of RANSAC and structure from motion with deep learning
 * Project 5 : Implementation of bag of words algorithm and VGG network
+* Project 6 : Implementation of a tracking algorithm using particles
